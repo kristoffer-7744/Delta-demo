@@ -5,4 +5,4 @@ this is a demo class for Git & Github.
 shradha khapra
 
 # Student:
-krishna irmalwar
+Krishna irmalwar
